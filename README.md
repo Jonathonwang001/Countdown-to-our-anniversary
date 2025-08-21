@@ -1,6 +1,5 @@
 # Countdown-to-our-anniversary
 Countdown to our anniversary
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
